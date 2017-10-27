@@ -106,8 +106,18 @@ h3 {
     margin-bottom: 5%;
 }
 
-.ruby {width: 60%; background-color: #4CAF50;} 
-.ror {width: 20%; background-color: #2196F3;} 
-.html {width: 75%; background-color: #f44336;} 
-.css {width: 70%; background-color: #c7cf4d;}
-.js {width: 15%; background-color: #7f389b;}
+.ruby {width: 60%; background-color: #7C7C7D;} 
+.ror {width: 20%; background-color: #7C7C7D;} 
+.html {width: 75%; background-color: #7C7C7D;} 
+.css {width: 70%; background-color: #7C7C7D;}
+.js {width: 15%; background-color: #7C7C7D;}
+
+.works h1 {
+    color: #261F1F;
+}
+
+.works img {
+    background-size: cover;
+    width: 480px;
+    background-repeat: no-repeat;
+}
