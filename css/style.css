@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Semi+Condensed');
+
+* {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.navbar {
+    background: #F8F9FA;
+}
+
+.navbar-brand, .navbar-brand:hover {
+    color: #261F1F;
+    font-weight: 900;
+    letter-spacing: 5px;
+} 
+
+a {
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #7C7C7D;
+}
+
+a:hover {
+    color: #444444;
+}
+
