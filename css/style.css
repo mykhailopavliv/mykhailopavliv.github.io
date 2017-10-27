@@ -112,6 +112,10 @@ h3 {
 .css {width: 70%; background-color: #7C7C7D;}
 .js {width: 15%; background-color: #7C7C7D;}
 
+.works {
+    padding-bottom: 3%;
+}
+
 .works h1 {
     color: #261F1F;
 }
@@ -120,4 +124,14 @@ h3 {
     background-size: cover;
     width: 480px;
     background-repeat: no-repeat;
+}
+
+.contact {
+    background: #F8F9FA; 
+    padding: 3%;
+}
+
+.footer {
+    padding-top: 1%; 
+    text-align: center;
 }
