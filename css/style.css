@@ -50,7 +50,7 @@ a:hover {
 
 h1 {
     font-size: 2.5em;
-    color:#fff;
+    color:#FFF;
     font-weight: 900;
     letter-spacing: 3px;
 }
@@ -73,8 +73,7 @@ h3 {
 }
 
 .about {
-    background: #fff;
-    height: 1000px;
+    background: #FFF;
 }
 
 .rounded-circle {
@@ -86,4 +85,29 @@ h3 {
     padding-top: 5%;
 }
 
+.resume {
+    background: #F8F9FA; 
+}
 
+.resume p {
+    margin: 0;
+}
+
+.myskills {
+    padding-top: 3%;
+    padding-bottom: 3%; 
+}
+
+.skills {
+    text-align: right; 
+    padding-right: 20px; 
+    line-height: 40px; 
+    color: white; 
+    margin-bottom: 5%;
+}
+
+.ruby {width: 60%; background-color: #4CAF50;} 
+.ror {width: 20%; background-color: #2196F3;} 
+.html {width: 75%; background-color: #f44336;} 
+.css {width: 70%; background-color: #c7cf4d;}
+.js {width: 15%; background-color: #7f389b;}
