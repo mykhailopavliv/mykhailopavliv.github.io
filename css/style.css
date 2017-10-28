@@ -23,6 +23,7 @@ a {
 
 a:hover {
     color: #444444;
+    cursor: pointer;
 }
 
 .home {
@@ -70,6 +71,7 @@ h3 {
     margin: 2px;
     width: 120px;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .about {
