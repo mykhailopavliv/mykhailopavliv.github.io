@@ -78,6 +78,10 @@ h3 {
     background: #FFF;
 }
 
+.about img {
+    float: right;
+}
+
 .rounded-circle {
     width: 130px;
     height: 130px;
@@ -96,7 +100,6 @@ h3 {
 }
 
 .myskills {
-    padding-top: 3%;
     padding-bottom: 3%; 
 }
 
@@ -124,7 +127,8 @@ h3 {
 
 .works img {
     background-size: cover;
-    width: 480px;
+    width: auto;
+    max-width: 100%;
     background-repeat: no-repeat;
 }
 
